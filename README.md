@@ -1,1 +1,1 @@
-# Color-Guesing-Game-Tkinter
+# Color-Guesing-Game-tkinter
